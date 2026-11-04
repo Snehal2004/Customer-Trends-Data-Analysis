@@ -6,7 +6,7 @@ This project demonstrates an end-to-end data analytics workflow using **Python, 
 
 The main objective is to transform raw customer data into meaningful business insights through data cleaning, exploratory data analysis, SQL querying, interactive visualization, and business reporting.
 
-The project focuses on understanding customer purchasing behavior, product preferences, shipping methods, subscription patterns, and spending trends to support data-driven business decisions.
+The project focuses on understanding customer purchasing behavior, product preferences, shipping methods, subscription patterns, and spending trends to support data-driven business decisions. 
 
 ## 🎯 Project Objectives
 
